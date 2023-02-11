@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://damuzid.github.io/](https://damuzid.github.io/)
+- Frontend Mentor Solution URL: [https://tinyurl.com/52zrjzu2](https://tinyurl.com/52zrjzu2)
+- Live Site URL: [https://damuzid.github.io/Previewcard/](https://damuzid.github.io/Previewcard/)
 
 ## My process
 
