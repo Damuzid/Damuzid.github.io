@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Frontend Mentor Solution URL: [https://tinyurl.com/52zrjzu2](https://tinyurl.com/52zrjzu2)
-- Live Site URL: [https://damuzid.github.io/Previewcard/](https://damuzid.github.io/Previewcard/)
+- Frontend Mentor Solution: [https://tinyurl.com/52zrjzu2](https://tinyurl.com/52zrjzu2)
+- Live Site: [https://damuzid.github.io/Previewcard/](https://damuzid.github.io/Previewcard/)
 
 ## My process
 
